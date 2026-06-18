@@ -17,8 +17,6 @@ _Help a Senior Manager understand the overall business performance, compare mark
 
 👤 Author: Bạch Minh Nam
 
-📅 Date: 2025-12-27
-
 ---
 
 ## 📑 Table of Contents
