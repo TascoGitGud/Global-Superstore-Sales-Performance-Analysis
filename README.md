@@ -130,7 +130,6 @@ The 3 tables are connected as follows:
 ## 🧠 Design Thinking Process
 
 This project followed the Design Thinking framework across 3 main steps: Empathize, Define Point of View, and Ideate.
-> 📄 For the full Design Thinking breakdown, see [Design Thinking Global Superstore Sales.pdf](Design-Thinking-Global-Superstore-Sales.pdf)
 
 ### 1️⃣ Empathize - Understanding the Stakeholder
 
@@ -169,6 +168,8 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
 | **Layer 0 (Scorecards)** | Total Sales, Total Profit, Sales YoY%, Profit Margin | Sales, Profit, Profit Margin by Market | Profit & Profit Margin by Category, Top Underperforming Products |
 | **Layer 1 (1-dimension breakdown)** | Sales & Profit trend by Year, Profit Margin trend by Year, Orders & Return Rate trend | Sales by Market, Return Rate by Market | Top Products by Sales, Profit Margin by Category |
 | **Layer 2 (2-dimension breakdown)** | Relationship between Orders ↔ Return Rate | Trend Sales by Market & Year, Total Customers/Orders by Market | Sub-category Profitability Matrix, Sales vs Profit vs Margin by Product |
+
+> 📄 For the full Design Thinking breakdown, see [Design Thinking Global Superstore Sales.pdf](Design-Thinking-Global-Superstore-Sales.pdf)
 
 ---
 
