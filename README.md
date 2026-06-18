@@ -130,7 +130,7 @@ The 3 tables are connected as follows:
 ## 🧠 Design Thinking Process
 
 This project followed the Design Thinking framework across 3 main steps: Empathize, Define Point of View, and Ideate.
-> 📄 For the full Design Thinking breakdown, see [Design-Thinking-Global-Superstore-Sales.pdf](Design-Thinking-Global-Superstore-Sales.pdf)
+> 📄 For the full Design Thinking breakdown, see [Design Thinking Global Superstore Sales.pdf](Design-Thinking-Global-Superstore-Sales.pdf)
 
 ### 1️⃣ Empathize - Understanding the Stakeholder
 
