@@ -66,60 +66,60 @@ This project uses Power BI to turn raw sales data into a dashboard that helps th
 
 The dataset has **3 tables**:
 
-- **Orders** - the main table, storing all sales transaction details
-- **People** - stores information about the salesperson responsible for each region
-- **Returns** - records which orders were returned
+- `Orders` - the main table, storing all sales transaction details
+- `People` - stores information about the salesperson responsible for each region
+- `Returns` - records which orders were returned
 
 #### 2️⃣ Table Schema
 
-**Table: Orders** (main fact table)
+**Table: `Orders`** (main fact table)
 
 | Column Name | Description |
 |---|---|
-| Order ID | Unique ID for each order |
-| Order Date | Date the order was placed |
-| Ship Date | Date the order was shipped |
-| Ship Mode | Shipping method |
-| Customer ID | Unique ID for each customer |
-| Customer Name | Name of the customer |
-| Segment | Customer segment |
-| City | City of the customer |
-| State | State/Province of the customer |
-| Country | Country of the customer |
-| Postal Code | Postal code of the customer's location |
-| Market | Market region |
-| Region | Sub-region within a market |
-| Product ID | Unique ID for each product |
-| Category | High-level product category |
-| Sub-Category | More specific product grouping under a category |
-| Product Name | Name of the product |
-| Sales | Total sales value of the order line |
-| Quantity | Number of units ordered |
-| Discount | Discount rate applied to the order |
-| Profit | Profit earned from the order |
-| Shipping Cost | Cost to ship the order |
-| Order Priority | Priority level of the order  |
+| `Order ID` | Unique ID for each order |
+| `Order Date` | Date the order was placed |
+| `Ship Date` | Date the order was shipped |
+| `Ship Mode` | Shipping method |
+| `Customer ID` | Unique ID for each customer |
+| `Customer Name` | Name of the customer |
+| `Segment` | Customer segment |
+| `City` | City of the customer |
+| `State` | State/Province of the customer |
+| `Country` | Country of the customer |
+| `Postal Code` | Postal code of the customer's location |
+| `Market` | Market region |
+| `Region` | Sub-region within a market |
+| `Product ID` | Unique ID for each product |
+| `Category` | High-level product category |
+| `Sub-Category` | More specific product grouping under a category |
+| `Product Name` | Name of the product |
+| `Sales` | Total sales value of the order line |
+| `Quantity` | Number of units ordered |
+| `Discount` | Discount rate applied to the order |
+| `Profit` | Profit earned from the order |
+| `Shipping Cost` | Cost to ship the order |
+| `Order Priority` | Priority level of the order |
 
-**Table: People**
-
-| Column Name | Description |
-|---|---|
-| Person | Name of the salesperson |
-| Region | Region this person is responsible for |
-
-**Table: Returns**
+**Table: `People`**
 
 | Column Name | Description |
 |---|---|
-| Order ID | Order that was returned |
-| Returned | Yes/No flag |
+| `Person` | Name of the salesperson |
+| `Region` | Region this person is responsible for |
+
+**Table: `Returns`**
+
+| Column Name | Description |
+|---|---|
+| `Order ID` | Order that was returned |
+| `Returned` | Yes/No flag |
 
 #### 3️⃣ Data Relationships
 
 The 3 tables are connected as follows:
 
-- **People → Orders**: One person manages many orders (1-to-many, joined on `Region`)
-- **Orders → Returns**: One order can have one return record (joined on `Order ID`)
+- `People` → `Orders`: One person manages many orders (1-to-many, joined on `Region`)
+- `Orders` → `Returns`: One order can have one return record (joined on `Order ID`)
 
 <p align="center">
   <img src="Images/data_model.png" width="80%">
