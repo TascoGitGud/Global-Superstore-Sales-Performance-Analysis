@@ -62,18 +62,12 @@ This project uses Power BI to turn raw sales data into a dashboard that helps th
 
 ### 📊 Data Structure & Relationships
 
-#### 1️⃣ Tables Used
+#### 1️⃣ Data Structure
 
 The dataset has **3 tables**:
 
-- `Orders` - the main table, storing all sales transaction details
-- `People` - stores information about the salesperson responsible for each region
-- `Returns` - records which orders were returned
-
-#### 2️⃣ Table Schema
-
 <details>
-<summary><b>📋 Orders Table</b> - Main fact table storing all sales transaction details</summary>
+<summary><b>📋Table 1: Orders</b> - Main fact table storing all sales transaction details</summary>
   
 | Column Name | Description |
 |---|---|
@@ -103,7 +97,7 @@ The dataset has **3 tables**:
  
 </details>
 <details>
-<summary><b>👤 People Table</b> - Stores salesperson and regional assignments</summary>
+<summary><b>👤 Table 2: People</b> - Stores salesperson and regional assignments</summary>
   
 | Column Name | Description |
 |---|---|
@@ -112,7 +106,7 @@ The dataset has **3 tables**:
  
 </details>
 <details>
-<summary><b>↩️ Returns Table</b> - Records product returns by order</summary>
+<summary><b>↩️ Table 3: Returns</b> - Records product returns by order</summary>
   
 | Column Name | Description |
 |---|---|
@@ -121,7 +115,7 @@ The dataset has **3 tables**:
  
 </details>
 
-#### 3️⃣ Data Relationships
+#### 2️⃣ Data Relationships
 
 The 3 tables are connected as follows:
 
