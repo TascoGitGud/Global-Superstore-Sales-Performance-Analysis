@@ -179,7 +179,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 #### 1️⃣ Page 1 - Performance Overview
 
 <p align="center">
-  <img src="Images/Performance_Overview.png" width="100%">
+  <img src="Images/Page_1.png" width="100%">
 </p>
 
 📌 **Analysis 1:** -- insight - 4 cái
@@ -194,7 +194,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 #### 2️⃣ Page 2 - Market Analysis
 
 <p align="center">
-  <img src="Images/Market_Analysis.png" width="100%">
+  <img src="Images/Page_2.png" width="100%">
 </p>
 
 📌 **Analysis 2:**
@@ -209,7 +209,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 #### 3️⃣ Page 3 - Product Analysis
 
 <p align="center">
-  <img src="Images/Product_Analysis.png" width="100%">
+  <img src="Images/Page_3.png" width="100%">
 </p>
 
 📌 **Analysis 3:** -- keyfinding
