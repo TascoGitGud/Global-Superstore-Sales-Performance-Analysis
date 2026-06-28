@@ -134,40 +134,20 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 ### 1️⃣ Empathize - Understanding the Stakeholder
 
-| Question | Answer |
-|---|---|
-| **Who views this dashboard?** | Senior Manager |
-| **What problem does it solve?** | The Senior Manager needs an easy-to-trust dashboard to quickly understand global business performance, identify strategic markets and products, and make expansion decisions with low risk. |
-| **When & where is it used?** | Daily for quick checks, weekly/monthly for strategy reviews, and before board meetings, strategy meetings, or budget planning - viewed on laptop, big screen, or tablet |
-| **Why is this analysis needed?** | To make fast, accurate, evidence-based decisions, reduce dependency on manual reports, and lower the risk of expanding into the wrong market |
-| **How do they decide?** | They analyze overall KPIs, spot growth/decline trends, and compare performance across markets to prioritize expansion or adjust product strategy |
-| **Pains** | Hard to make fast decisions because data is complex, unclear, and not action-oriented |
-| **Gains** | Clear insights lead to better decisions and support sustainable growth |
-| **Key Questions to Answer** | • How is the business performing right now?<br>• Which markets are growing or declining?<br>• Which products should be prioritized for investment?<br>• What is causing these changes?<br>• What strategic action should come next? |
-
 <p align="center">
   <img src="Images/Step_1.png" width="100%">
 </p>
 
 ### 2️⃣ Define Point of View - Choosing the Right Angles
 
-| Point of View | Description | Why the stakeholder cares |
-|---|---|---|
-| **Overview** | Track Sales & Profit trends over time (Year/Quarter) | To see if the business is growing or declining, and identify peak/low periods |
-| **Market** | Compare business performance across Markets/Regions | To see where growth is coming from |
-| **Product** | Analyze Sales & Profit by Category/Sub-Category/Product | To find out which categories/products create or destroy profit |
+<p align="center">
+  <img src="Images/Step_2.png" width="100%">
+</p>
 
 **Northstar Metrics:**
 
-| Question | Answer |
-|---|---|
-| **Metric Name** | Total Revenue |
-| **Formula** | `Total Revenue = Σ Orders[Sales]` |
-| **Success Criteria** | Revenue grows continuously year over year, and growth comes from multiple Markets/Categories |
-| **Why This Metric** | Revenue is the #1 goal - executives need to know "is the company growing?" |
-
 <p align="center">
-  <img src="Images/Step_2.png" width="100%">
+  <img src="Images/Northstar.png" width="100%">
 </p>
 
 > 📄 For the full Design Thinking breakdown, see [Global Superstore Sales Design Thinking ](Design_Thinking_Global_Superstore_Sales.pdf)
