@@ -167,7 +167,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 | Success when: Revenue grows continuously year over year, and growth comes from multiple Markets/Categories (not just one source) |
 | Why this metric: Revenue is the #1 goal - executives need to know "is the company growing?" |
 
-> 📄 For the full Design Thinking breakdown, see [Design Thinking Global Superstore Sales.pdf](Design_Thinking_Global_Superstore_Sales.pdf)
+> 📄 For the full Design Thinking breakdown, see [Global Superstore Sales Design Thinking](Design_Thinking_Global_Superstore_Sales.pdf)
 
 ---
 
