@@ -1,3 +1,5 @@
+# 📊 Power BI | Global Superstore Sales Performance Dashboard 
+
 ![Power BI](https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
@@ -6,8 +8,6 @@
 <p align="center">
   <img src="Images/banner.png" width="100%">
 </p>
-
-# 📊 Power BI | Global Superstore Sales Performance Dashboard 
 
 _Help a Senior Manager understand the overall business performance, compare markets, and identify which products to grow or cut - all in one interactive dashboard._
 
