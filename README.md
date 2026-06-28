@@ -72,7 +72,7 @@ The dataset has **3 tables**:
 
 #### 2️⃣ Table Schema
 
-**Table: `Orders`** (main fact table)
+> _**Table: `Orders`** (main fact table)
 
 | Column Name | Description |
 |---|---|
@@ -112,7 +112,7 @@ The dataset has **3 tables**:
 | Column Name | Description |
 |---|---|
 | `Order ID` | Order that was returned |
-| `Returned` | Yes/No flag |
+| `Returned` | Yes/No flag |_
 
 #### 3️⃣ Data Relationships
 
