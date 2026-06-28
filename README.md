@@ -145,6 +145,10 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 | **Gains** | Clear insights lead to better decisions and support sustainable growth |
 | **Key Questions to Answer** | • How is the business performing right now?<br>• Which markets are growing or declining?<br>• Which products should be prioritized for investment?<br>• What is causing these changes?<br>• What strategic action should come next? |
 
+<p align="center">
+  <img src="Images/Step_1.png" width="100%">
+</p>
+
 ### 2️⃣ Define Point of View - Choosing the Right Angles
 
 | Point of View | Description | Why the stakeholder cares |
@@ -161,6 +165,10 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 | **Formula** | `Total Revenue = Σ Orders[Sales]` |
 | **Success Criteria** | Revenue grows continuously year over year, and growth comes from multiple Markets/Categories |
 | **Why This Metric** | Revenue is the #1 goal - executives need to know "is the company growing?" |
+
+<p align="center">
+  <img src="Images/Step_2.png" width="100%">
+</p>
 
 > 📄 For the full Design Thinking breakdown, see [Global Superstore Sales Design Thinking ](Design_Thinking_Global_Superstore_Sales.pdf)
 
