@@ -30,7 +30,7 @@ _Help a Senior Manager understand the overall business performance, compare mark
 
 ## 📌 Background & Overview
 
-### Objective
+### Objective -- business problem
 
 Global Superstore is a company that sells products in many markets across different continents. The company is growing fast and wants to expand into more markets to gain market share.
 
@@ -173,7 +173,7 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
 
 ---
 
-## ⚒️ Main Process
+## ⚒️ Main Process -- bỏ
 
 1️⃣ **Connect & Load Data** - Connect Power BI to the tables via Google BigQuery
 
