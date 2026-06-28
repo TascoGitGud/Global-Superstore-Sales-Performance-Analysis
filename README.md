@@ -172,18 +172,6 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
 
 ---
 
-## ⚒️ Main Process -- bỏ
-
-1️⃣ **Connect & Load Data** - Connect Power BI to the tables via Google BigQuery
-
-2️⃣ **Data Modeling** - Build relationships between the 3 tables as shown in the Data Relationships section above
-
-3️⃣ **DAX Measures** - Create calculated measures such as Total Sales, Total Profit, Profit Margin, Sales YoY%,...
-
-4️⃣ **Power BI Visualization** - Build dashboard based on the Design Thinking structure above
-
----
-
 ## 📊 Key Insights & Visualizations
 
 ### 🔍 Dashboard Preview
