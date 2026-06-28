@@ -195,7 +195,7 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
   <img src="Images/Performance_Overview.png" width="100%">
 </p>
 
-📌 **Analysis 1:** -- insight
+📌 **Analysis 1:** -- insight - 4 cái
 
 - **Observation:** Overall, the business is growing well - both Revenue and Profit went up more than 50% compared to last year, and Profit Margin stayed stable at around 11.6%. But there's one concern: the Return Rate has been going up every year since 2012, while Total Orders also keep increasing. This means a bigger portion of orders are being returned over time, which could slowly reduce profit if nothing is done. Also, when looking by category, Furniture has decent revenue but a much lower profit margin compared to Technology.
 
