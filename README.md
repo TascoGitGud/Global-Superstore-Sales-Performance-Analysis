@@ -136,7 +136,7 @@ The 3 tables are connected as follows:
 
 ## 🧠 Design Thinking Process
 
-This project followed the Design Thinking framework across 3 main steps: Empathize, Define Point of View, and Ideate.
+This project followed the Design Thinking framework across 2 main steps: Empathize and Define Point of View
 
 ### 1️⃣ Empathize - Understanding the Stakeholder
 
