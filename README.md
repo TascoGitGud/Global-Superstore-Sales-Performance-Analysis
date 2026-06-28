@@ -164,7 +164,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 | Northstar |
 |---|
 | **Total Revenue** |
-| Formula: `Total Revenue = Σ (Revenue by Market)` |
+| Formula: `Total Revenue = Σ Orders[Sales]` |
 | Success when: Revenue grows continuously year over year, and growth comes from multiple Markets/Categories (not just one source) |
 | Why this metric: Revenue is the #1 goal - executives need to know "is the company growing?" |
 
