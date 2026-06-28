@@ -74,6 +74,7 @@ The dataset has **3 tables**:
 
 <details>
 <summary><b>📋 Orders Table</b> - Main fact table storing all sales transaction details</summary>
+  
 | Column Name | Description |
 |---|---|
 | `Order ID` | Unique ID for each order |
@@ -103,6 +104,7 @@ The dataset has **3 tables**:
 </details>
 <details>
 <summary><b>👤 People Table</b> - Stores salesperson and regional assignments</summary>
+  
 | Column Name | Description |
 |---|---|
 | `Person` | Name of the salesperson |
@@ -111,6 +113,7 @@ The dataset has **3 tables**:
 </details>
 <details>
 <summary><b>↩️ Returns Table</b> - Records product returns by order</summary>
+  
 | Column Name | Description |
 |---|---|
 | `Order ID` | Order that was returned |
