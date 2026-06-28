@@ -216,3 +216,5 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 ✔️ **Watch the return rate before it affects future growth.** The return rate has been rising every year since 2012. If this isn't addressed, it could slow down profit growth even if revenue keeps increasing - especially as the company expands into new markets.
 
 ✔️ **Clean up the product portfolio before scaling.** Tables is currently losing money and should not be part of any expansion plan until its pricing/cost issue is fixed. Meanwhile, Paper and Labels are underused high-margin products that should be the face of any new market push.
+
+---
