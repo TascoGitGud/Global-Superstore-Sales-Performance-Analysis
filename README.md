@@ -195,11 +195,11 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
   <img src="Images/Performance_Overview.png" width="100%">
 </p>
 
-📌 **Analysis 1:**
+📌 **Analysis 1:** -- insight
 
 - **Observation:** Overall, the business is growing well - both Revenue and Profit went up more than 50% compared to last year, and Profit Margin stayed stable at around 11.6%. But there's one concern: the Return Rate has been going up every year since 2012, while Total Orders also keep increasing. This means a bigger portion of orders are being returned over time, which could slowly reduce profit if nothing is done. Also, when looking by category, Furniture has decent revenue but a much lower profit margin compared to Technology.
 
-- **Recommendation:**
+- **Recommendation:** -- để cuối
   - 🔴 **Check the return rate problem first.** Look into which markets or categories have the most returns, and find out why (bad product quality, wrong sizing, slow delivery, etc.).
   - 🟡 **Review Furniture's profit margin.** Compare it with Technology to understand why it's lower - maybe it's discounts, shipping cost, or pricing.
   - 🟢 **Learn from 2013.** That year had the best profit margin, so it's worth checking what was different that year and try to repeat it.
@@ -225,11 +225,11 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
   <img src="Images/Product_Analysis.png" width="100%">
 </p>
 
-📌 **Analysis 3:**
+📌 **Analysis 3:** -- keyfinding
 
 - **Observation:** Tables has good revenue (~0.76M), but it actually has a negative profit - meaning the company is losing money on this product. On the other side, Paper and Labels don't show up in the top revenue list, but they have the highest profit margins (24.24% and 20.45%). These products are profitable but not getting much attention. Also, the table shows that APAC and EU make up most of the sales for almost every product category.
 
-- **Recommendation:**
+- **Recommendation:** 
   - 🔴 **Review pricing and cost for Tables.** A product that's losing money needs urgent attention - check if it's because of high discounts, high shipping cost, or low selling price.
   - 🟡 **Promote Paper and Labels more.** These products are very profitable but don't sell as much - giving them more marketing or better placement could help increase overall profit.
   - 🟢 **Try selling high-margin products (like Paper, Labels) in weaker markets** like EMEA or Africa to see if it helps improve their numbers too.
