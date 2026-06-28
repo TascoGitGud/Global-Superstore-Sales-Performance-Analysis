@@ -30,17 +30,17 @@ _Help a Senior Manager understand the overall business performance, compare mark
 
 ## 📌 Background & Overview
 
-### Objective -- business problem
+### 🎯 Business Problem
 
 Global Superstore is a company that sells products in many markets across different continents. The company is growing fast and wants to expand into more markets to gain market share.
 
 The Senior Manager needs a dashboard to answer 3 main questions:
 
-✔️ **Overall performance:** How is the business doing right now? Is revenue and profit growing?
+✔️ **Overall Performance:** How is the business doing right now? Is revenue and profit growing?
 
-✔️ **Market performance:** Which markets are performing well, and which ones need attention?
+✔️ **Market Performance:** Which markets are performing well, and which ones need attention?
 
-✔️ **Product performance:** Which product categories are profitable, and which ones should be prioritized or cut?
+✔️ **Product Performance:** Which product categories are profitable, and which ones should be prioritized or cut?
 
 This project uses Power BI to turn raw sales data into a dashboard that helps the Senior Manager make faster, data-driven decisions about where to expand and which products to invest in.
 
@@ -72,8 +72,8 @@ The dataset has **3 tables**:
 
 #### 2️⃣ Table Schema
 
-> _**Table: `Orders`** (main fact table)
-
+<details>
+<summary><b>📋 Orders Table</b> - Main fact table storing all sales transaction details</summary>
 | Column Name | Description |
 |---|---|
 | `Order ID` | Unique ID for each order |
@@ -99,20 +99,24 @@ The dataset has **3 tables**:
 | `Profit` | Profit earned from the order |
 | `Shipping Cost` | Cost to ship the order |
 | `Order Priority` | Priority level of the order |
-
-**Table: `People`**
-
+ 
+</details>
+<details>
+<summary><b>👤 People Table</b> - Stores salesperson and regional assignments</summary>
 | Column Name | Description |
 |---|---|
 | `Person` | Name of the salesperson |
 | `Region` | Region this person is responsible for |
-
-**Table: `Returns`**
-
+ 
+</details>
+<details>
+<summary><b>↩️ Returns Table</b> - Records product returns by order</summary>
 | Column Name | Description |
 |---|---|
 | `Order ID` | Order that was returned |
-| `Returned` | Yes/No flag |_
+| `Returned` | Yes/No flag indicating if order was returned |
+ 
+</details>
 
 #### 3️⃣ Data Relationships
 
@@ -160,14 +164,6 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
 | Formula: `Total Revenue = Σ (Revenue by Market)` |
 | Success when: Revenue grows continuously year over year, and growth comes from multiple Markets/Categories (not just one source) |
 | Why this metric: Revenue is the #1 goal - executives need to know "is the company growing?" |
-
-### 3️⃣ Ideate - Structuring the Dashboard
-
-| | **Page 1: Overview** | **Page 2: Market** | **Page 3: Product** |
-|---|---|---|---|
-| **Layer 0 (Scorecards)** | Total Sales, Total Profit, Sales YoY%, Profit Margin | Sales, Profit, Profit Margin by Market | Profit & Profit Margin by Category, Top Underperforming Products |
-| **Layer 1 (1-dimension breakdown)** | Sales & Profit trend by Year, Profit Margin trend by Year, Orders & Return Rate trend | Sales by Market, Return Rate by Market | Top Products by Sales, Profit Margin by Category |
-| **Layer 2 (2-dimension breakdown)** | Relationship between Orders ↔ Return Rate | Trend Sales by Market & Year, Total Customers/Orders by Market | Sub-category Profitability Matrix, Sales vs Profit vs Margin by Product |
 
 > 📄 For the full Design Thinking breakdown, see [Design Thinking Global Superstore Sales.pdf](Design-Thinking-Global-Superstore-Sales.pdf)
 
