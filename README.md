@@ -7,7 +7,7 @@
   <img src="Images/banner.png" width="100%">
 </p>
 
-# 📊 Global Superstore Sales Performance Dashboard | Power BI
+# 📊 Power BI | Global Superstore Sales Performance Dashboard 
 
 _Help a Senior Manager understand the overall business performance, compare markets, and identify which products to grow or cut - all in one interactive dashboard._
 
