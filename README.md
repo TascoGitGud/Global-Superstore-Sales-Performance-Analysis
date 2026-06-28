@@ -154,12 +154,12 @@ This project followed the Design Thinking framework across 3 main steps: Empathi
 
 **Northstar Metrics:**
 
-| Northstar 1 | Northstar 2 |
-|---|---|
-| **Revenue (Revenue Growth Rate)** | **Profit Margin** |
-| Formula: `Total Revenue = Σ (AOV × Total Orders) per Market` | Formula: `Global Profit Margin = Total Profit / Total Revenue` |
-| Success when: Revenue grows continuously year over year, and growth comes from multiple Markets/Categories (not just one source) | Success when: Profit Margin is maintained or improved while revenue is growing |
-| Why this metric: Revenue is the #1 goal - executives need to know "is the company growing?" | Why this metric: Profit ensures the growth is healthy and avoids growing revenue while losing efficiency |
+| Northstar |
+|---|
+| **Total Revenue** |
+| Formula: `Total Revenue = Σ (Revenue by Market)` |
+| Success when: Revenue grows continuously year over year, and growth comes from multiple Markets/Categories (not just one source) |
+| Why this metric: Revenue is the #1 goal - executives need to know "is the company growing?" |
 
 ### 3️⃣ Ideate - Structuring the Dashboard
 
