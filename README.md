@@ -144,7 +144,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
   <img src="Images/Step_2.png" width="100%">
 </p>
 
-**Northstar Metrics:**
+### **⭐ Northstar Metrics:**
 
 <p align="center">
   <img src="Images/Northstar.png" width="100%">
