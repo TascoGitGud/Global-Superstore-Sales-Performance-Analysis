@@ -157,7 +157,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 #### 1️⃣ Page 1 - Performance Overview
 
 <p align="center">
-  <img src="Images/Page_1.png" width="100%">
+  <img src="Images/Page_01.png" width="100%">
 </p>
 
 **📈 Key Findings:**
@@ -170,7 +170,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 #### 2️⃣ Page 2 - Market Analysis
 
 <p align="center">
-  <img src="Images/Page_2.png" width="100%">
+  <img src="Images/Page_02.png" width="100%">
 </p>
 
 **🌍 Key Findings:**
