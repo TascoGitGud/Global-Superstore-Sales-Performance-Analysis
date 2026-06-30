@@ -21,7 +21,7 @@ _Help a Senior Manager understand the overall business performance, compare mark
 1. [📌 Background & Overview](#-background--overview)
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
 3. [🧠 Design Thinking Process](#-design-thinking-process)
-4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)
+4. [📊 Key Findings & Visualizations](#-key-findings--visualizations)
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
@@ -152,7 +152,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 ---
 
-## 📊 Key Insights & Visualizations  -- chỉ là format , nội dung chưa hoàn chỉnh
+## 📊 Key Findings & Visualizations  -- chỉ là format , nội dung chưa hoàn chỉnh
 
 ### 🔍 Dashboard Preview
 
