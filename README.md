@@ -148,8 +148,6 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
   <img src="Images/Northstar.png" width="100%">
 </p>
 
-> 📄 For the full Design Thinking breakdown, see [Global Superstore Sales Design Thinking ](Design_Thinking_Global_Superstore_Sales.pdf)
-
 ---
 
 ## 📊 Key Findings & Visualizations  
