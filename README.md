@@ -152,7 +152,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 ---
 
-## 📊 Key Findings & Visualizations
+## 📊 Key Findings & Visualizations -- chỉ là format , nội dung chưa hoàn chỉnh
 
 ### 🔍 Dashboard Preview
 
