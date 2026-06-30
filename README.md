@@ -21,7 +21,7 @@ _Help a Senior Manager understand the overall business performance, compare mark
 1. [📌 Background & Overview](#-background--overview)
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
 3. [🧠 Design Thinking Process](#-design-thinking-process)
-4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)
+4. [📊 Key Findings & Visualizations](#-key-findings--visualizations)
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
@@ -152,7 +152,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 ---
 
-## 📊 Key Insights & Visualizations
+## 📊 Key Findings & Visualizations
 
 ### 🔍 Dashboard Preview
 
@@ -162,14 +162,12 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
   <img src="Images/Page_1.png" width="100%">
 </p>
 
-📌 **Analysis 1:** -- insight - 4 cái
+**📈 Key Findings:**
 
-- **Observation:** Overall, the business is growing well - both Revenue and Profit went up more than 50% compared to last year, and Profit Margin stayed stable at around 11.6%. But there's one concern: the Return Rate has been going up every year since 2012, while Total Orders also keep increasing. This means a bigger portion of orders are being returned over time, which could slowly reduce profit if nothing is done. Also, when looking by category, Furniture has decent revenue but a much lower profit margin compared to Technology.
-
-- **Recommendation:** -- để cuối
-  - 🔴 **Check the return rate problem first.** Look into which markets or categories have the most returns, and find out why (bad product quality, wrong sizing, slow delivery, etc.).
-  - 🟡 **Review Furniture's profit margin.** Compare it with Technology to understand why it's lower - maybe it's discounts, shipping cost, or pricing.
-  - 🟢 **Learn from 2013.** That year had the best profit margin, so it's worth checking what was different that year and try to repeat it.
+- Revenue and profit both increased by over 50% compared to the previous year, showing strong overall growth
+- Profit margin has remained stable at around 11.6%, indicating consistent operational efficiency
+- Return rate has been rising year-over-year since 2012, which could gradually impact profitability despite growing order volumes
+- Furniture generates decent revenue but has a significantly lower profit margin compared to the Technology category
 
 #### 2️⃣ Page 2 - Market Analysis
 
@@ -177,14 +175,12 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
   <img src="Images/Page_2.png" width="100%">
 </p>
 
-📌 **Analysis 2:**
+**🌍 Key Findings:**
 
-- **Observation:** APAC and EU bring in the most revenue, which is expected since they're the biggest markets. But Canada - even though it's the smallest market - has the highest profit margin (26.62%). On the other hand, EMEA has the lowest profit margin and the highest return rate (6.2%) among the bigger markets. EMEA's AOV (average order value) also goes up and down a lot from year to year, which shows its performance isn't very stable yet.
-
-- **Recommendation:**
-  - 🔴 **Don't expand EMEA yet.** Its low margin and high return rate suggest there are issues to fix first - expanding now would just make those issues bigger.
-  - 🟡 **Study what makes Canada so profitable.** Even though it's small, its model (pricing, products sold, etc.) might work well for similar smaller markets like Africa or LATAM.
-  - 🟢 **Keep investing in APAC and EU**, since they are the main markets driving the company's revenue and profit.
+- APAC and EU are the largest revenue drivers, which aligns with their size as major markets
+- Canada, despite being the smallest market, achieves the highest profit margin at 26.62%
+- EMEA has the lowest profit margin among major markets and experiences the highest return rate at 6.2%
+- EMEA's average order value fluctuates significantly year-to-year, suggesting unstable market performance
 
 #### 3️⃣ Page 3 - Product Analysis
 
@@ -192,29 +188,27 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
   <img src="Images/Page_3.png" width="100%">
 </p>
 
-📌 **Analysis 3:** -- keyfinding
+**📦 Key Findings:**
 
-- **Observation:** Tables has good revenue (~0.76M), but it actually has a negative profit - meaning the company is losing money on this product. On the other side, Paper and Labels don't show up in the top revenue list, but they have the highest profit margins (24.24% and 20.45%). These products are profitable but not getting much attention. Also, the table shows that APAC and EU make up most of the sales for almost every product category.
-
-- **Recommendation:** 
-  - 🔴 **Review pricing and cost for Tables.** A product that's losing money needs urgent attention - check if it's because of high discounts, high shipping cost, or low selling price.
-  - 🟡 **Promote Paper and Labels more.** These products are very profitable but don't sell as much - giving them more marketing or better placement could help increase overall profit.
-  - 🟢 **Try selling high-margin products (like Paper, Labels) in weaker markets** like EMEA or Africa to see if it helps improve their numbers too.
+- Tables generates substantial revenue (approximately 0.76M) but operates at a loss with negative profit
+- Paper and Labels have the highest profit margins (24.24% and 20.45% respectively) but contribute less to total revenue
+- APAC and EU account for the majority of sales across nearly all product categories
+- High-margin products like Paper and Labels are underutilized compared to their profit potential
 
 ---
 
 ## 🔎 Final Conclusion & Recommendations
 
-📍 Key Takeaways:
+**💡 Recommendations:**
 
-✔️ **Best expansion candidates: Canada & LATAM.** Canada has the highest profit margin (26.62%) but is currently the smallest market - this means there's a lot of room to grow without hurting efficiency. LATAM is the second-best pick: it has solid Revenue growth and a more stable AOV compared to EMEA or Africa. These two markets give the best balance of "low risk + good return" for expansion.
+✔️ **Best expansion candidates: Canada & LATAM.** Canada demonstrates the highest profit margin at 26.62% while remaining the smallest market, indicating significant growth potential without sacrificing efficiency. LATAM presents the second-best opportunity with solid revenue growth and more consistent average order values compared to EMEA or Africa. These markets offer the optimal balance of low risk and strong returns for expansion.
 
-✔️ **Recommended product-market pairing for expansion.** When entering or growing in Canada and LATAM, prioritize high-margin sub-categories like Paper and Labels instead of pushing the same products as APAC/EU. Pairing an efficient market with efficient products gives the best chance of strong margins from day one.
+✔️ **Pair expansion strategy with high-margin products.** When expanding into Canada and LATAM, prioritize sub-categories with strong margins such as Paper and Labels rather than focusing on high-volume products from established markets. This approach combines efficient market positioning with efficient products to establish strong profitability from the start.
 
-✔️ **Fix EMEA before expanding it further.** EMEA has the lowest profit margin and highest return rate among major markets, with unstable AOV year to year. Expanding here now would just scale up existing problems - it needs an operational fix first, not more investment.
+✔️ **Resolve EMEA operational challenges before further expansion.** EMEA currently shows the lowest profit margins and highest return rates among major markets, with volatile average order values. Scaling investment in this market without addressing these issues would amplify existing problems rather than drive growth.
 
-✔️ **Watch the return rate before it affects future growth.** The return rate has been rising every year since 2012. If this isn't addressed, it could slow down profit growth even if revenue keeps increasing - especially as the company expands into new markets.
+✔️ **Address increasing return rates to protect future growth.** The return rate has risen consistently since 2012, which threatens profit growth even as revenue increases. This issue becomes more critical as the company expands into new markets.
 
-✔️ **Clean up the product portfolio before scaling.** Tables is currently losing money and should not be part of any expansion plan until its pricing/cost issue is fixed. Meanwhile, Paper and Labels are underused high-margin products that should be the face of any new market push.
+✔️ **Stabilize the product portfolio before scaling operations.** Tables currently operates unprofitably and should be excluded from expansion plans until its cost and pricing challenges are resolved. Meanwhile, high-margin products like Paper and Labels should be positioned as growth drivers in new market entries.
 
 ---
