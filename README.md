@@ -182,19 +182,16 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **🌍 Key Findings:**
 
-**🌍 Key Findings:**
+- **APAC** leads all markets with the highest revenue at **3.6M**, a solid margin of **12.2%**, and the lowest return rate at **5.4%**, making it the most reliable and efficient market in the portfolio.
 
-- **APAC** leads all markets with the highest revenue at **3.6M**, a solid margin of **12.2%**, and the lowest return rate at **5.4%**. It is the strongest and most stable market in the portfolio.
+- **Canada** stands out with the highest profit margin at **26.6%** but only **66.9K** in revenue and **201 orders**, making it the smallest market by far. The margin gap compared to other markets suggests strong growth potential if the right investment is made.
 
-- **Canada** has the highest profit margin at **26.6%** but only **66.9K** in revenue and **201 orders**. It is by far the smallest market, but the margin gap suggests there is significant room to grow if the right investment is made.
+- **EMEA** showed the strongest YoY growth in **Performance Overview** page (**Sales +59.8%, Profit +106.1%**), but a closer look here reveals a profit margin of only **5.5%** and a return rate of **6.2%**, the highest alongside EU. Fast growth is happening, but efficiency and quality are not keeping up.
 
-- **EMEA** showed the strongest YoY growth in Page 1 (**Sales +59.8%, Profit +106.1%**), but looking deeper here, its profit margin is only **5.5%** and return rate is **6.2%**. Fast growth is happening, but efficiency and quality are not keeping up.
-
-- **EU** and **EMEA** share the highest return rate at **6.2%**, which lines up with the rising return rate trend flagged in **Performance Overview** Page. These two markets need closer attention before more budget is put in.
+- **EU** and **EMEA** share the highest return rate at **6.2%**, which connects directly to the rising return rate trend flagged in **Performance Overview** page. Both markets are growing in volume but need operational improvements before more budget is committed.
 
 ---
 
-**Gửi tôi ảnh Page 3 - Product Analysis nhé!** 🚀
 #### 3️⃣ Page 3 - Product Analysis
 
 <p align="center">
