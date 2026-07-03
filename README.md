@@ -214,14 +214,16 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **💡 Recommendations:**
 
-✔️ **Best expansion candidates: Canada & LATAM.** Canada demonstrates the highest profit margin at 26.62% while remaining the smallest market, indicating significant growth potential without sacrificing efficiency. LATAM presents the second-best opportunity with solid revenue growth and more consistent average order values compared to EMEA or Africa. These markets offer the optimal balance of low risk and strong returns for expansion.
+✔️ Revenue has nearly doubled over 4 years and margins are holding steady, so the business foundation is solid. But growth is coming purely from volume, not efficiency. The next step is to **grow smarter**, not just bigger, by focusing on the right markets and the right products.
 
-✔️ **Pair expansion strategy with high-margin products.** When expanding into Canada and LATAM, prioritize sub-categories with strong margins such as Paper and Labels rather than focusing on high-volume products from established markets. This approach combines efficient market positioning with efficient products to establish strong profitability from the start.
+✔️ **Canada is the top expansion candidate.** With a profit margin of **26.6%**, far above any other market, Canada proves the business model works extremely well there. The current revenue of only **66.9K** and **201 orders** means it is almost untapped. Targeted investment here could deliver strong returns with relatively low risk.
 
-✔️ **Resolve EMEA operational challenges before further expansion.** EMEA currently shows the lowest profit margins and highest return rates among major markets, with volatile average order values. Scaling investment in this market without addressing these issues would amplify existing problems rather than drive growth.
+✔️ **Pair any expansion with Technology, Paper, and Labels.** Technology leads with **14%** margin and strong revenue across all markets. Paper (**24.2%**) and Labels (**20.5%**) are the highest-margin sub-categories but are currently underused. Bringing these products into expansion markets like Canada gives the best chance of building profitability from day one.
 
-✔️ **Address increasing return rates to protect future growth.** The return rate has risen consistently since 2012, which threatens profit growth even as revenue increases. This issue becomes more critical as the company expands into new markets.
+✔️ **Fix EMEA before scaling it further.** EMEA had the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) but its profit margin is only **5.5%** and return rate is **6.2%**, the highest alongside EU. Pouring more budget in without fixing these issues will only make the problems bigger.
 
-✔️ **Stabilize the product portfolio before scaling operations.** Tables currently operates unprofitably and should be excluded from expansion plans until its cost and pricing challenges are resolved. Meanwhile, high-margin products like Paper and Labels should be positioned as growth drivers in new market entries.
+✔️ **Remove Tables from all expansion plans and review it immediately.** Tables is losing money in every single market with a **-8.5% margin** and high return rates in US (**9.8%**) and LATAM (**11%**). It is actively destroying profit and should not be part of any growth strategy until its cost and pricing issues are resolved.
+
+✔️ **Address the rising return rate before it becomes a bigger problem.** Return rates have been climbing since 2011 across the business, and certain products already hit **100% return rate**. As the business expands into new markets, unresolved return issues will scale up with it and put pressure on profit margins that are already thin in key markets.
 
 ---
