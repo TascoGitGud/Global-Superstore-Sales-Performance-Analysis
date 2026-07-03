@@ -166,11 +166,11 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 - Revenue grew consistently from **2.3M (2011)** to **4.3M (2014)**, nearly doubling in 4 years, with Profit following the same path, but Profit Margin stayed flat at **11-12%**, meaning growth is coming from selling more rather than being more efficient.
 
-- Orders climbed from **~6K to ~9K** but Return Rate has been rising alongside, which could start hurting profit growth if left unaddressed as the business scales.
+- `Orders` climbed from **~6K to ~9K** but Return Rate has been rising alongside, which could start hurting profit growth if left unaddressed as the business scales.
 
-- **EMEA** posted the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) while **US** grew the slowest (**Sales +47%, Profit +48.5%**). By total size, **APAC** and **EU** are the two biggest markets, while **Canada** is the smallest but shows a noticeably higher profit margin than the rest. A deeper look at each market will be covered in the **Market Analysis** page.
+- `EMEA` posted the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) while `US` grew the slowest (**Sales +47%, Profit +48.5%**). By total size, `APAC` and `EU` are the two biggest markets, while `Canada` is the smallest but shows a noticeably higher profit margin than the rest. A deeper look at each market will be covered in the **Market Analysis** page.
 
-- Each category plays a distinct business role: **Office Supplies** drives the highest order volume (~19K) with the lowest return rate (~5%) but delivers moderate profitability, **Technology** is the strongest profit contributor with the highest margin (~13-14%) despite lower order volume, while **Furniture** underperforms with the lowest margin and highest return rate (~6%), making it the biggest area for improvement.
+- Each category plays a distinct business role: `Office Supplies` drives the highest order volume (~19K) with the lowest return rate (~5%) but delivers moderate profitability, `Technology` is the strongest profit contributor with the highest margin (~13-14%) despite lower order volume, while `Furniture` underperforms with the lowest margin and highest return rate (~6%), making it the biggest area for improvement.
 
 ---
 
@@ -182,13 +182,13 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **🌍 Key Findings:**
 
-- **APAC** leads all markets with the highest revenue at **3.6M**, a solid margin of **12.2%**, and the lowest return rate at **5.4%**, making it the most reliable and efficient market in the portfolio.
+- `APAC` leads all markets with the highest revenue at **3.6M**, a solid margin of **12.2%**, and the lowest return rate at **5.4%**, making it the most reliable and efficient market in the portfolio.
 
-- **Canada** stands out with the highest profit margin at **26.6%** but only **66.9K** in revenue and **201 orders**, making it the smallest market by far. The margin gap compared to other markets suggests strong growth potential if the right investment is made.
+- `Canada` stands out with the highest profit margin at **26.6%** but only **66.9K** in revenue and **201 orders**, making it the smallest market by far. The margin gap compared to other markets suggests strong growth potential if the right investment is made.
 
-- **EMEA** showed the strongest YoY growth in **Performance Overview** page (**Sales +59.8%, Profit +106.1%**), but a closer look here reveals a profit margin of only **5.5%** and a return rate of **6.2%**, the highest alongside EU. Fast growth is happening, but efficiency and quality are not keeping up.
+- `EMEA` showed the strongest YoY growth in **Performance Overview** page (**Sales +59.8%, Profit +106.1%**), but a closer look here reveals a profit margin of only **5.5%** and a return rate of **6.2%**, the highest alongside EU. Fast growth is happening, but efficiency and quality are not keeping up.
 
-- **EU** and **EMEA** share the highest return rate at **6.2%**, which connects directly to the rising return rate trend flagged in **Performance Overview** page. Both markets are growing in volume but need operational improvements before more budget is committed.
+- `EU` and `EMEA` share the highest return rate at **6.2%**, which connects directly to the rising return rate trend flagged in **Performance Overview** page. Both markets are growing in volume but need operational improvements before more budget is committed.
 
 ---
 
@@ -200,13 +200,13 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **📦 Key Findings:**
 
-- **Technology** leads all categories with **4.7M** in revenue and the highest profit margin at **14%**, making it the strongest category in the portfolio. **Office Supplies** comes in close with a solid **13.7%** margin. **Furniture** on the other hand generates **4.1M** in revenue but only a **6.9%** margin and the highest return rate across all markets, making it the weakest category despite its size.
+- `Technology` leads all categories with **4.7M** in revenue and the highest profit margin at **14%**, making it the strongest category in the portfolio. `Office Supplies` comes in close with a solid **13.7%** margin. `Furniture` on the other hand generates **4.1M** in revenue but only a **6.9%** margin and the highest return rate across all markets, making it the weakest category despite its size.
 
-- At sub-category level, **Phones** (1.71M), **Copiers** (1.51M), and **Chairs** (1.50M) lead in revenue, but high revenue does not always mean high profit. **Tables** is the clearest example, with **0.76M** in revenue but a **-8.5%** margin, losing money in every single market including APAC (-20K), EU (-21K), US (-17.7K), and LATAM (-12.3K).
+- At sub-category level, `Phones` (1.71M), `Copiers` (1.51M), and `Chairs` (1.50M) lead in revenue, but high revenue does not always mean high profit. `Tables` is the clearest example, with `0.76M` in revenue but a **-8.5%** margin, losing money in every single market including `APAC` (-20K), `EU` (-21K), `US` (-17.7K), and `LATAM` (-12.3K).
 
-- **Paper** (24.2%) and **Labels** (20.5%) have the highest profit margins of all sub-categories but generate very little revenue. These are the most efficient sub-categories in the portfolio and are currently being underutilized.
+- `Paper` (24.2%) and `Labels` (20.5%) have the highest profit margins of all sub-categories but generate very little revenue. These are the most efficient sub-categories in the portfolio and are currently being underutilized.
 
-- Several products show a **100% return rate**, and **Tables** has a particularly high return rate in LATAM (**11%**) and US (**9.8%**), which connects directly to its negative profit performance and reinforces why it should be deprioritized before any market expansion.
+- Several products show a **100% return rate**, and `Tables` has a particularly high return rate in `LATAM `(**11%**) and `US` (**9.8%**), which connects directly to its negative profit performance and reinforces why it should be deprioritized before any market expansion.
 
 ---
 
@@ -216,13 +216,13 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 ✔️ Revenue nearly doubled in 4 years and margins are stable, so the business is in a good place. But growth is coming from selling more, not from being more efficient. The focus now should be on **picking the right markets and right products** to grow into.
 
-✔️ **Canada is the best market to expand into first.** Its profit margin is **26.6%**, the highest of any market, but it only has **66.9K** in revenue and **201 orders** total. That means it is barely touched. Putting more investment into Canada is low risk with strong upside.
+✔️ **`Canada` is the best market to expand into first.** Its profit margin is **26.6%**, the highest of any market, but it only has **66.9K** in revenue and **201 orders** total. That means it is barely touched. Putting more investment into `Canada` is low risk with strong upside.
 
-✔️ **When expanding, lead with Technology, Paper, and Labels.** Technology has a solid **14%** margin and sells well everywhere. Paper (**24.2%**) and Labels (**20.5%**) have the highest margins of all sub-categories but are not being pushed enough. These products give the best shot at being profitable in new markets from day one.
+✔️ **When expanding, lead with `Technology`, `Paper`, and `Labels`.** `Technology` has a solid **14%** margin and sells well everywhere. `Paper` (**24.2%**) and `Labels` (**20.5%**) have the highest margins of all sub-categories but are not being pushed enough. These products give the best shot at being profitable in new markets from day one.
 
-✔️ **Do not scale EMEA yet.** EMEA grew fast last year (**Sales +59.8%**) but the profit margin is only **5.5%** and return rate is **6.2%**. The growth looks good on paper but the fundamentals are not there yet. Fix the margin and return issues first before putting more money in.
+✔️ **Do not scale `EMEA` yet.** `EMEA` grew fast last year (**Sales +59.8%**) but the profit margin is only **5.5%** and return rate is **6.2%**. The growth looks good on paper but the fundamentals are not there yet. Fix the margin and return issues first before putting more money in.
 
-✔️ **Stop selling Tables in expansion markets.** Tables loses money in every market with a **-8.5% margin** and return rates as high as **11%** in LATAM and **9.8%** in US. It should be pulled from any growth plan until the pricing and cost problems are sorted out.
+✔️ **Stop selling `Tables` in expansion markets.** `Tables` loses money in every market with a **-8.5% margin** and return rates as high as **11%** in `LATAM` and **9.8%** in `US`. It should be pulled from any growth plan until the pricing and cost problems are sorted out.
 
 ✔️ **Keep an eye on return rates across the board.** Returns have been going up every year since 2011, and some products already hit **100% return rate**. If this is not fixed now, it will get worse as the business grows and will quietly eat into profits over time.
 
