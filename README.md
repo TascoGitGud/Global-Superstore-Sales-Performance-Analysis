@@ -166,7 +166,7 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 - Revenue grew consistently from **2.3M (2011)** to **4.3M (2014)**, nearly doubling in 4 years, with Profit following the same path, but Profit Margin stayed flat at **11-12%**, meaning growth is coming from selling more rather than being more efficient.
 
-- `Orders` climbed from **~6K to ~9K** but Return Rate has been rising alongside, which could start hurting profit growth if left unaddressed as the business scales.
+- Orders climbed from **~6K to ~9K** but Return Rate has been rising alongside, which could start hurting profit growth if left unaddressed as the business scales.
 
 - `EMEA` posted the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) while `US` grew the slowest (**Sales +47%, Profit +48.5%**). By total size, `APAC` and `EU` are the two biggest markets, while `Canada` is the smallest but shows a noticeably higher profit margin than the rest. A deeper look at each market will be covered in the **Market Analysis** page.
 
