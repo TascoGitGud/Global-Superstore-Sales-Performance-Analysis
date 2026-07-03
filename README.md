@@ -214,16 +214,16 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **💡 Recommendations:**
 
-✔️ Revenue has nearly doubled over 4 years and margins are holding steady, so the business foundation is solid. But growth is coming purely from volume, not efficiency. The next step is to **grow smarter**, not just bigger, by focusing on the right markets and the right products.
+✔️ Revenue nearly doubled in 4 years and margins are stable, so the business is in a good place. But growth is coming from selling more, not from being more efficient. The focus now should be on **picking the right markets and right products** to grow into.
 
-✔️ **Canada is the top expansion candidate.** With a profit margin of **26.6%**, far above any other market, Canada proves the business model works extremely well there. The current revenue of only **66.9K** and **201 orders** means it is almost untapped. Targeted investment here could deliver strong returns with relatively low risk.
+✔️ **Canada is the best market to expand into first.** Its profit margin is **26.6%**, the highest of any market, but it only has **66.9K** in revenue and **201 orders** total. That means it is barely touched. Putting more investment into Canada is low risk with strong upside.
 
-✔️ **Pair any expansion with Technology, Paper, and Labels.** Technology leads with **14%** margin and strong revenue across all markets. Paper (**24.2%**) and Labels (**20.5%**) are the highest-margin sub-categories but are currently underused. Bringing these products into expansion markets like Canada gives the best chance of building profitability from day one.
+✔️ **When expanding, lead with Technology, Paper, and Labels.** Technology has a solid **14%** margin and sells well everywhere. Paper (**24.2%**) and Labels (**20.5%**) have the highest margins of all sub-categories but are not being pushed enough. These products give the best shot at being profitable in new markets from day one.
 
-✔️ **Fix EMEA before scaling it further.** EMEA had the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) but its profit margin is only **5.5%** and return rate is **6.2%**, the highest alongside EU. Pouring more budget in without fixing these issues will only make the problems bigger.
+✔️ **Do not scale EMEA yet.** EMEA grew fast last year (**Sales +59.8%**) but the profit margin is only **5.5%** and return rate is **6.2%**. The growth looks good on paper but the fundamentals are not there yet. Fix the margin and return issues first before putting more money in.
 
-✔️ **Remove Tables from all expansion plans and review it immediately.** Tables is losing money in every single market with a **-8.5% margin** and high return rates in US (**9.8%**) and LATAM (**11%**). It is actively destroying profit and should not be part of any growth strategy until its cost and pricing issues are resolved.
+✔️ **Stop selling Tables in expansion markets.** Tables loses money in every market with a **-8.5% margin** and return rates as high as **11%** in LATAM and **9.8%** in US. It should be pulled from any growth plan until the pricing and cost problems are sorted out.
 
-✔️ **Address the rising return rate before it becomes a bigger problem.** Return rates have been climbing since 2011 across the business, and certain products already hit **100% return rate**. As the business expands into new markets, unresolved return issues will scale up with it and put pressure on profit margins that are already thin in key markets.
+✔️ **Keep an eye on return rates across the board.** Returns have been going up every year since 2011, and some products already hit **100% return rate**. If this is not fixed now, it will get worse as the business grows and will quietly eat into profits over time.
 
 ---
