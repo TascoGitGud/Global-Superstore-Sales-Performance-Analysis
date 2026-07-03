@@ -180,11 +180,19 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **🌍 Key Findings:**
 
-- APAC and EU are the largest revenue drivers, which aligns with their size as major markets
-- Canada, despite being the smallest market, achieves the highest profit margin at 26.62%
-- EMEA has the lowest profit margin among major markets and experiences the highest return rate at 6.2%
-- EMEA's average order value fluctuates significantly year-to-year, suggesting unstable market performance
+**🌍 Key Findings:**
 
+- **APAC** leads all markets with the highest revenue at **3.6M**, a solid margin of **12.2%**, and the lowest return rate at **5.4%**. It is the strongest and most stable market in the portfolio.
+
+- **Canada** has the highest profit margin at **26.6%** but only **66.9K** in revenue and **201 orders**. It is by far the smallest market, but the margin gap suggests there is significant room to grow if the right investment is made.
+
+- **EMEA** showed the strongest YoY growth in Page 1 (**Sales +59.8%, Profit +106.1%**), but looking deeper here, its profit margin is only **5.5%** and return rate is **6.2%**. Fast growth is happening, but efficiency and quality are not keeping up.
+
+- **EU** and **EMEA** share the highest return rate at **6.2%**, which lines up with the rising return rate trend flagged in **Performance Overview** Page. These two markets need closer attention before more budget is put in.
+
+---
+
+**Gửi tôi ảnh Page 3 - Product Analysis nhé!** 🚀
 #### 3️⃣ Page 3 - Product Analysis
 
 <p align="center">
