@@ -200,10 +200,13 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **📦 Key Findings:**
 
-- Tables generates substantial revenue (approximately 0.76M) but operates at a loss with negative profit
-- Paper and Labels have the highest profit margins (24.24% and 20.45% respectively) but contribute less to total revenue
-- APAC and EU account for the majority of sales across nearly all product categories
-- High-margin products like Paper and Labels are underutilized compared to their profit potential
+- **Technology** leads all categories with **4.7M** in revenue and the highest profit margin at **14%**, making it the strongest category in the portfolio. **Office Supplies** comes in close with a solid **13.7%** margin. **Furniture** on the other hand generates **4.1M** in revenue but only a **6.9%** margin and the highest return rate across all markets, making it the weakest category despite its size.
+
+- At sub-category level, **Phones** (1.71M), **Copiers** (1.51M), and **Chairs** (1.50M) lead in revenue, but high revenue does not always mean high profit. **Tables** is the clearest example, with **0.76M** in revenue but a **-8.5%** margin, losing money in every single market including APAC (-20K), EU (-21K), US (-17.7K), and LATAM (-12.3K).
+
+- **Paper** (24.2%) and **Labels** (20.5%) have the highest profit margins of all sub-categories but generate very little revenue. These are the most efficient sub-categories in the portfolio and are currently being underutilized.
+
+- Several products show a **100% return rate**, and **Tables** has a particularly high return rate in LATAM (**11%**) and US (**9.8%**), which connects directly to its negative profit performance and reinforces why it should be deprioritized before any market expansion.
 
 ---
 
