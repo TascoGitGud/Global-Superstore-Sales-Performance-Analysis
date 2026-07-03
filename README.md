@@ -162,11 +162,18 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
 
 **📈 Key Findings:**
 
-- Revenue and profit both increased by over 50% compared to the previous year, showing strong overall growth
-- Profit margin has remained stable at around 11.6%, indicating consistent operational efficiency
-- Return rate has been rising year-over-year since 2012, which could gradually impact profitability despite growing order volumes
-- Furniture generates decent revenue but has a significantly lower profit margin compared to the Technology category
+**📈 Key Findings:**
 
+- Revenue has grown consistently every year, from **2.3M in 2011** to **4.3M in 2014**, nearly doubling over 4 years. Profit followed the same trend, while Profit Margin stayed stable at around **11-12%**, meaning growth is coming from higher sales volume rather than improved efficiency.
+
+- Orders grew steadily from **~6K to ~9K** over the same period, but the Return Rate has also been climbing year over year. If left unaddressed, rising returns could start eating into profit growth as the business scales up.
+
+- Looking at YoY growth by market, **EMEA** stands out with **Sales +59.8%** and **Profit +106.12%**, the strongest growth of all markets. On the other end, **US** had the slowest growth at **Sales +46.95%** and **Profit +48.48%**. This signals a shift in where the business momentum is coming from.
+
+- By category, **Furniture** generates solid revenue but has the lowest profit margin and the highest return rate (~6%) among all categories. **Office Supplies** leads in order volume (~19K orders) with the lowest return rate (~5%). **Technology** stands out with the highest profit margin (~13-14%), making it the most efficient category. Both will be examined more closely in the Product page.
+
+---
+d
 #### 2️⃣ Page 2 - Market Analysis
 
 <p align="center">
