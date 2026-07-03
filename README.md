@@ -160,15 +160,17 @@ This project followed the Design Thinking framework across 2 main steps: Empathi
   <img src="Images/Page_01.png" width="100%">
 </p>
 
+---
+
 **📈 Key Findings:**
 
-- Revenue grew every year from **2.3M (2011)** to **4.3M (2014)**, nearly doubling in 4 years. Profit followed the same path, but Profit Margin barely moved at **11-12%**. Growth is coming from selling more, not from being more efficient.
+- Revenue grew consistently from **2.3M (2011)** to **4.3M (2014)**, nearly doubling in 4 years, with Profit following the same path, but Profit Margin stayed flat at **11-12%**, meaning growth is coming from selling more rather than being more efficient.
 
-- Orders climbed from **~6K to ~9K** but Return Rate has been rising along with it. This is worth watching closely as the business keeps growing.
+- Orders climbed from **~6K to ~9K** but Return Rate has been rising alongside, which could start hurting profit growth if left unaddressed as the business scales.
 
-- **EMEA** had the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) while **US** grew the slowest (**Sales +47%, Profit +48.5%**). Overall, **APAC** and **EU** are the two biggest markets by revenue, and **Canada** is the smallest but with a noticeably higher profit margin. More detail on each market in the **Market Analysis** page.
+- **EMEA** posted the strongest YoY growth (**Sales +59.8%, Profit +106.1%**) while **US** grew the slowest (**Sales +47%, Profit +48.5%**). By total size, **APAC** and **EU** are the two biggest markets, while **Canada** is the smallest but shows a noticeably higher profit margin than the rest. A deeper look at each market will be covered in the **Market Analysis** page.
 
-- **Furniture** has the highest return rate (~6%) and lowest margin among all categories. **Office Supplies** leads in orders (~19K) with the lowest return rate (~5%). **Technology** has the highest profit margin (~13-14%). More detail on each category in the **Product Analysis** page.
+- Each category plays a distinct business role: **Office Supplies** drives the highest order volume (~19K) with the lowest return rate (~5%) but delivers moderate profitability, **Technology** is the strongest profit contributor with the highest margin (~13-14%) despite lower order volume, while **Furniture** underperforms with the lowest margin and highest return rate (~6%), making it the biggest area for improvement.
 
 ---
 
